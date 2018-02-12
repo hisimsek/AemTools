@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/plugins/AemTools" >
+        <file>icons/area.png</file>
+    </qresource>
+    <qresource prefix="/plugins/AemTools" >
+        <file>icons/tkgm.png</file>
+    </qresource>
+    <qresource prefix="/plugins/AemTools" >
+        <file>icons/attr_info.png</file>
+    </qresource>
+</RCC>

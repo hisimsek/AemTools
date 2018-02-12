@@ -1,0 +1,40 @@
+# This file contains metadata for your plugin. Beginning
+# with version 1.8 this is the preferred way to supply information about a
+# plugin. The current method of embedding metadata in __init__.py will
+# be supported until version 2.0
+
+# This file should be included when you package your plugin.
+
+# Mandatory items:
+
+
+[general]
+name=AemTools
+qgisMinimumVersion=2.0
+qgisMaximumVersion=2.99
+description=Tools for viewing attributes,coordinates, screening single areas.
+version=0.1.0
+
+# end of mandatory metadata
+
+# Optional items:
+
+# Uncomment the following line and add your changelog entries:
+# changelog=
+
+# tags are comma separated with spaces allowed
+tags=cad,viewing
+
+homepage=http://plugins.qgis.org/plugins/
+tracker=https://github.com/geopython/
+repository=https://github.com/geopython
+icon=icons/main.png
+# experimental flag
+experimental=False
+
+# deprecated flag (applies to the whole plugin, not just a single version
+deprecated=False
+
+# Author contact information
+author=Halil İbrahim ŞİMŞEK
+email=tk28555@gmail.com
